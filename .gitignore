@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+chrome_profile/
+downloaded_files/
+latest_logs/
+saved_cookies/
+*.log
+.DS_Store
+projetos_coletados.jsonl
